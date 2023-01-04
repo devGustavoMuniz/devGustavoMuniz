@@ -1,5 +1,9 @@
 ### Olá! Eu sou o Gustavo Muniz 👋
 
+- 🔭 Atualmente trabalho com Front-End
+- 📫 Estou estudando ReactJS e TypeScript
+- 📒 Contato: gustavomuniz545@gmail.com
+
 ![Gustavo Muniz GitHub stats](https://github-readme-stats.vercel.app/api?username=devGustavoMuniz&show_icons=true&theme=dracula)
 
 ### Tecnologias que uso no meu dia
