@@ -1,10 +1,10 @@
 ### Hi 👋! My name is Gustavo Muniz and I'm a Junior Developer
 
-- 📒 Contato: gustavomuniz545@gmail.com
+- 📒 Contact: gustavomuniz545@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devGustavoMuniz&layout=compact&theme=dracula)
 
-### Tecnologias que uso no meu dia a dia
+### Technologies I use in my daily life
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
