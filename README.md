@@ -1,14 +1,10 @@
-### Olá! Eu sou o Gustavo Muniz 👋
+### Hi 👋! My name is Gustavo Muniz and I'm a Junior Developer
 
-- 🔭 Atualmente trabalho com Front-End
-- 📫 Estou estudando ReactJS e TypeScript
 - 📒 Contato: gustavomuniz545@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devGustavoMuniz&layout=compact&theme=dracula)
 
-![Gustavo Muniz GitHub stats](https://github-readme-stats.vercel.app/api?username=devGustavoMuniz&show_icons=true&theme=dracula)
-
-### Tecnologias que uso no meu dia
+### Tecnologias que uso no meu dia a dia
 
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,5 +16,3 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">
 </div>
-<br>
-Apaixonado por tecnologia
