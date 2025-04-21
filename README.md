@@ -1,10 +1,10 @@
-### Hi 👋! My name is Gustavo Muniz and I'm a Junior Developer
+### Olá 👋! Meu nome é Gustavo Muniz e sou um Full Stack Developer
 
 - 📒 Contact: gustavomuniz545@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devGustavoMuniz&layout=compact&theme=dracula)
 
-### Technologies I use in my daily life
+### Tecnologias que uso no dia a dia
 
 <div>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
