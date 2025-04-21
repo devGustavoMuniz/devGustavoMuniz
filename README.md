@@ -1,6 +1,6 @@
 ### Olá 👋! Meu nome é Gustavo Muniz e sou um Full Stack Developer
 
-- 📒 Contact: gustavomuniz545@gmail.com
+- 📒 Contato: gustavomuniz545@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devGustavoMuniz&layout=compact&theme=dracula)
 
