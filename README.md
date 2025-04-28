@@ -1,4 +1,4 @@
-### Olá 👋! Meu nome é Gustavo Muniz e sou um Full Stack Developer
+### Olá 👋! Meu nome é Gustavo Muniz e sou Full Stack Developer
 
 - 📒 Contato: gustavomuniz545@gmail.com
 
